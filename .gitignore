@@ -1,0 +1,18 @@
+xcuserdata
+*.xcuserstate
+*.xccheckout
+.DS_Store
+
+# bundler
+/vendor/bundler
+/.bundle
+
+# rbenv
+.ruby-version
+
+# cocoapods
+/build
+/Pods
+
+# doc
+jazzy_doc
